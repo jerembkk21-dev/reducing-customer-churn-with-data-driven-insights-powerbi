@@ -43,14 +43,18 @@ Offer incentives for long-term contracts
 Monitor high-charge customers more closely
 
 # H) Files Included
+
 1) Power BI dashboard:
+
 initial_churn_project_file.pbix
 Churn_PBI_Project_Jeremy Chaussy.pbix
 
 2) Dataset:
+   
 Datalabel - data.csv
 
 3) Dashboard screenshots
+   
 age_group.png
 insights.png
 overview.png
