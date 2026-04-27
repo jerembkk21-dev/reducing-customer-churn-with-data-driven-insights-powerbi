@@ -47,6 +47,7 @@ Monitor high-charge customers more closely
 1) Power BI dashboard:
 
 initial_churn_project_file.pbix
+
 Churn_PBI_Project_Jeremy Chaussy.pbix
 
 2) Dataset:
@@ -56,7 +57,11 @@ Datalabel - data.csv
 3) Dashboard screenshots
    
 age_group.png
+
 insights.png
+
 overview.png
+
 payment_and_contract.png
+
 unlimited_plan.png
