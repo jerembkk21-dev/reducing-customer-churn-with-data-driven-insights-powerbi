@@ -35,7 +35,15 @@ Interactive filters for deeper analysis
 
 # F) Dashboard Preview
 
-(Insert screenshot here)
+![Dashboard Preview](images/overview.png)
+
+![Dashboard Preview](images/insights.png)
+
+![Dashboard Preview](images/unlimited_plan.png)
+
+![Dashboard Preview](images/payment_and_contract.png)
+
+![Dashboard Preview](images/age_group.png)
 
 # G) Business Recommendations
 Improve retention strategies for high-risk customers
