@@ -48,7 +48,7 @@ Monitor high-charge customers more closely
 
 initial_churn_project_file.pbix
 
-Churn_PBI_Project_Jeremy Chaussy.pbix
+churn_PBI_Project_Jeremy Chaussy.pbix
 
 2) Dataset:
    
