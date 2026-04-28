@@ -2,13 +2,13 @@
 Power BI project analyzing customer churn patterns and business insights
 
 
-# A) Project Overview
+# 1) Project Overview
 
 This project analyzes customer churn data using Power BI to identify key factors influencing customer retention and business performance.
 
 The goal is to help businesses understand why customers leave and provide actionable insights to reduce churn.
 
-# B) Dataset
+# 2) Dataset
 
 Source: DataCamp Case Study
 
@@ -22,7 +22,7 @@ Includes:
 
 • Churn status
 
-# C) Tools & Skills Used
+# 3) Tools & Skills Used
 
 • Power BI
 
@@ -34,7 +34,7 @@ Includes:
 
 • Data Visualization
 
-# D) Key Insights
+# 4) Key Insights
 
 • Customers with higher monthly charges are more likely to churn
 
@@ -42,7 +42,7 @@ Includes:
 
 • Certain customer segments are more at risk
 
-# E) Dashboard Features
+# 5) Dashboard Features
 
 • Churn rate overview
 
@@ -52,7 +52,7 @@ Includes:
 
 • Interactive filters for deeper analysis
 
-# F) Dashboard Preview
+# 6) Dashboard Preview
 
 
 
@@ -71,7 +71,7 @@ Includes:
 ![Dashboard Preview](images/age_group.png)
 
 
-# G) Business Recommendations
+# 7) Business Recommendations
 
 • Improve retention strategies for high-risk customers
 
@@ -79,19 +79,19 @@ Includes:
 
 • Monitor high-charge customers more closely
 
-# H) Files Included
+# 8) Files Included
 
-1) Power BI dashboard:
+a) Power BI dashboard:
 
 - initial_churn_project_file.pbix
 
 - churn_PBI_Project_Jeremy Chaussy.pbix
 
-2) Dataset:
+b) Dataset:
    
 - Datalabel - data.csv
 
-3) Dashboard screenshots
+c) Dashboard screenshots
    
 - age_group.png
 
