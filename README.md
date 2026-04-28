@@ -14,43 +14,43 @@ Source: DataCamp Case Study
 
 Includes:
 
-Customer demographics
+• Customer demographics
 
-Subscription details
+• Subscription details
 
-Monthly charges
+• Monthly charges
 
-Churn status
+• Churn status
 
 # C) Tools & Skills Used
 
-Power BI
+• Power BI
 
-Data Cleaning
+• Data Cleaning
 
-Data Modeling
+• Data Modeling
 
-DAX (Data Analysis Expressions)
+• DAX (Data Analysis Expressions)
 
-Data Visualization
+• Data Visualization
 
 # D) Key Insights
 
-Customers with higher monthly charges are more likely to churn
+• Customers with higher monthly charges are more likely to churn
 
-Short-term contracts show higher churn rates
+• Short-term contracts show higher churn rates
 
-Certain customer segments are more at risk
+• Certain customer segments are more at risk
 
 # E) Dashboard Features
 
-Churn rate overview
+• Churn rate overview
 
-Customer segmentation
+• Customer segmentation
 
-Monthly revenue analysis
+• Monthly revenue analysis
 
-Interactive filters for deeper analysis
+• Interactive filters for deeper analysis
 
 # F) Dashboard Preview
 
@@ -73,32 +73,32 @@ Interactive filters for deeper analysis
 
 # G) Business Recommendations
 
-Improve retention strategies for high-risk customers
+• Improve retention strategies for high-risk customers
 
-Offer incentives for long-term contracts
+• Offer incentives for long-term contracts
 
-Monitor high-charge customers more closely
+• Monitor high-charge customers more closely
 
 # H) Files Included
 
 1) Power BI dashboard:
 
-initial_churn_project_file.pbix
+- initial_churn_project_file.pbix
 
-churn_PBI_Project_Jeremy Chaussy.pbix
+- churn_PBI_Project_Jeremy Chaussy.pbix
 
 2) Dataset:
    
-Datalabel - data.csv
+- Datalabel - data.csv
 
 3) Dashboard screenshots
    
-age_group.png
+- age_group.png
 
-insights.png
+- insights.png
 
-overview.png
+- overview.png
 
-payment_and_contract.png
+- payment_and_contract.png
 
-unlimited_plan.png
+- unlimited_plan.png
