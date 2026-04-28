@@ -1,4 +1,4 @@
-# customer-churn-powerbi
+# reducing-customer-churn-with-data-driven-insights-powerbi
 Power BI project analyzing customer churn patterns and business insights
 
 
